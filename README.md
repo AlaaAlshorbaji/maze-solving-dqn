@@ -111,10 +111,9 @@ The agent moves in four possible directions: **up, down, left, right**, and rece
 ## 👨‍💻 Author
 
 **Alaa Shorbaji**  
-Artificial Intelligence Instructor – Armed Forces  
+Artificial Intelligence Instructor
 Master’s Researcher in Deep Learning & Reinforcement Learning  
-GitHub: [your_username]  
-LinkedIn: [your_link]
+
 
 ---
 
